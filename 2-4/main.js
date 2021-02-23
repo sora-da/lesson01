@@ -22,6 +22,6 @@ switch(seasons) {
     console.log('季節は冬です');
     break;
   default:
-    console.log('なにか間違えている！');
+    console.log('なにか間違えている!!');
     break;
 }
